@@ -8,5 +8,6 @@
     </head>
     <body>
         <a href="livros">CRUD Livros</a>
+        <li><a href="editoras/">CRUD Editoras</a></li>
     </body>
 </html>
